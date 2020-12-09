@@ -575,4 +575,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('NzU4MTExOTMzODMxODM5NzU1.X2qMwg.FkBuA-VbhClyi2E2ARLIIDjSvUw');
+client.login('Your Token, Madam?');
